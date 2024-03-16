@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[8,41,65,22,75],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Charlotte","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[8,41,65,22,75],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alt. Charlotte","nickname":"","note":"","profile":""}
+]

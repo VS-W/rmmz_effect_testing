@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Forest Town","order":1,"parentId":0,"scrollX":1216.5,"scrollY":1040.25,"quick":false},
+{"id":2,"expanded":false,"name":"Burning Forest Town","order":2,"parentId":1,"scrollX":1216.5,"scrollY":1224.75,"quick":false}
+]
