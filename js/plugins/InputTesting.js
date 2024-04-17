@@ -4,7 +4,7 @@
 /*:
  * @plugindesc Testing user input.
  *
- * @author LMZ
+ * @author RWZ
  *
  * @help
  *
@@ -28,7 +28,7 @@
 		setInterval(() => {
 			// console.log(`up: ${LMZ_key_obj["up"]["status"]}\nleft: ${LMZ_key_obj["left"]["status"]}\ndown: ${LMZ_key_obj["down"]["status"]}\nright: ${LMZ_key_obj["right"]["status"]}`);
 			// console.log(OcRam.Time_System.getTimeString().replace(":", "").split(""));
-		}, 10);
+		}, 100);
 	}
 
 	let LMZ_key_obj = {
